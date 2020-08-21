@@ -1,4 +1,4 @@
-![Active](https://img.shields.io/badge/Langages-Python-yellow)    ![Active](https://img.shields.io/badge/Experience-Beginner-lightgrey)             
+![Active](https://img.shields.io/badge/Langages-Python-yellow)    ![Active](https://img.shields.io/badge/Experience-Beginner-orange)             
 
  
 
