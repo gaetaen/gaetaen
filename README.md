@@ -1,4 +1,4 @@
-![Active](https://img.shields.io/badge/Langages-Python%2FC%23%2FMariaDB-yellow) ![Active](https://img.shields.io/badge/Experience-Beginner-orange) ![Active](https://img.shields.io/badge/%F0%9F%8C%8C-Fran%C3%A7ais%20%2F%20English%20%2F%20Nederlands%20-red)
+![Active](https://img.shields.io/badge/Langages-Python%2FC%23%2FMariaDB-yellow) ![Active](https://img.shields.io/badge/Experience-Junior Developer-orange) ![Active](https://img.shields.io/badge/%F0%9F%8C%8C-Fran%C3%A7ais%20%2F%20English%20%2F%20Nederlands%20-red)
 
 ![Active](https://www.codewars.com/users/Gaetaen/badges/large)
 
